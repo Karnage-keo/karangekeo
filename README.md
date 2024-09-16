@@ -5,7 +5,7 @@ Welcome to my space. Here, I'll showcase some of my current and past projects.
 ## Cloud computing - Study guides and practise exams
 
 ### AWS Certified Cloud Practitioner
-<img src="[karnagekeo/assets/ai.md)" width="500" height="500"> 
+<img src="karnagekeo/assets/ai.md" width="100" height="100">
 Check out my AWS AI Practitioner Study guide here.
 Take a look at some of AWS AI Practitioner mock exams here.
 
