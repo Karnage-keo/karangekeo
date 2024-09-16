@@ -25,7 +25,7 @@ Take a look at some of AWS AI Practitioner mock exams here.
 Check out my AWS AI Practitioner Study guide here. <br><br>
 Take a look at some of AWS AI Practitioner mock exams here.
 
-## <ins>Real world AWS Projects</ins>
+## Real world AWS Projects
 
 ### <ins>Creating a First Line IT Support Bot</ins>
 
