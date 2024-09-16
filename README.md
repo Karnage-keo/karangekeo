@@ -15,7 +15,8 @@ With this guide, you will find detailed descriptions of all the concept that wil
 Below, you will also find a free Cloud Practitioner practise exam, which has been created to replicate questions that will present in the exam. 
 <br>
 <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-81f45bc/www.ciat.edu/wp-content/uploads/2020/12/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" width="500" height="500">
-Check out my AWS AI Practitioner Study guide here. <br>
+Check out my AWS AI Practitioner Study guide here. 
+<br><br>
 Take a look at some of AWS AI Practitioner mock exams here.
 
 ### AWS Certified Solutions Arcitect Associate
