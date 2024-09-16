@@ -1,6 +1,8 @@
 # Richard Keogh
 
-Welcome to my space. Here, I'll showcase some of my current and past projects.
+Welcome to my space. 
+<br> <br>
+Here, I'll showcase some of my current and past projects.
 
 ## Cloud computing - Study guides and practise exams
 
