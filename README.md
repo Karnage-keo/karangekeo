@@ -1,4 +1,4 @@
-# KARNAGE KEO
+# Richard Keogh
 
 Welcome to my space. Here, I'll showcase some of my current and past projects.
 
