@@ -15,12 +15,13 @@ Take a look at some of AWS AI Practitioner mock exams here.
 Check out my AWS AI Practitioner Study guide here. <br>
 Take a look at some of AWS AI Practitioner mock exams here.
 
-## Real world IT Projects
+## Real world AWS Projects
 
 ### Creating a First Line IT Support Bot
 
 This project was rooted in the desire to find a solution for some of our more common issues that arrived into our service desk, and those in which the team will frequently solve with existing documented knowledge, or by referencing our knowledge base. 
 
+### Creating a First Line IT Support Bot
 
 
 
