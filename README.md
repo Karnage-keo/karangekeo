@@ -9,9 +9,9 @@ Here, I'll showcase some of my current and past projects.
 ### AWS Certified Cloud Practitioner
 <br>
 As part of my continued effort to understand the AWS Services, and add value to those trying to learn AWS Cloud computing, I developed a study guide for the core Cloud Practitioner exam topics.
-<br>
-With this guide, you will find detailed descriptions of all the concept that will be covered as part of the exam.
 <br><br>
+With this guide, you will find detailed descriptions of all the concept that will be covered as part of the exam.
+<br>
 Below, you will also find a free Cloud Practitioner practise exam, which has been created to replicate questions that will present in the exam. 
 <br>
 <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-81f45bc/www.ciat.edu/wp-content/uploads/2020/12/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" width="500" height="500">
