@@ -4,9 +4,9 @@ Welcome to my space.
 <br> <br>
 Here, I'll showcase some of my current and past projects.
 
-## Cloud computing - Study guides and practise exams
+## </ins>Cloud computing - Study guides and practise exams</ins>
 
-### AWS Certified Cloud Practitioner
+### <ins>AWS Certified Cloud Practitioner</ins>
 <br>
 As part of my continued effort to understand the AWS Services, and add value to those trying to learn AWS Cloud computing, I developed a study guide for the core Cloud Practitioner exam topics.
 <br><br>
@@ -19,21 +19,21 @@ Check out my AWS AI Practitioner Study guide here.
 <br><br>
 Take a look at some of AWS AI Practitioner mock exams here.
 
-### AWS Certified Solutions Arcitect Associate
+### <ins>AWS Certified Solutions Arcitect Associate</ins>
 ![SAA](https://github.com/user-attachments/assets/b3749a02-6433-45e2-9ae4-31b00dbe6291) 
 
 Check out my AWS AI Practitioner Study guide here. <br><br>
 Take a look at some of AWS AI Practitioner mock exams here.
 
-## Real world AWS Projects
+## <ins>Real world AWS Projects</ins>
 
-### Creating a First Line IT Support Bot
+### <ins>Creating a First Line IT Support Bot</ins>
 
 This project was rooted in the desire to find a solution for some of our more common issues that arrived into our service desk, and those in which the team will frequently solve with existing documented knowledge, or by referencing our knowledge base. 
 
-### <ins>Project Ccope</ins>
-### <ins>Project Design</ins>
-### <ins>Project Proposal</ins>
+### Project Ccope
+### Project Design
+### Project Proposal
 
 
 
