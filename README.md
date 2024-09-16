@@ -31,7 +31,7 @@ Take a look at some of AWS AI Practitioner mock exams here.
 
 This project was rooted in the desire to find a solution for some of our more common issues that arrived into our service desk, and those in which the team will frequently solve with existing documented knowledge, or by referencing our knowledge base. 
 
-_Project scope_
+<ins>Project scope</ins>
 
 ### Creating a First Line IT Support Bot
 
