@@ -6,7 +6,7 @@ Welcome to my space. Here, I'll showcase some of my current and past projects.
 
 ### AWS Certified Cloud Practitioner
 ![AI](https://github.com/user-attachments/assets/91b91832-03c9-4e5b-b618-49f7a6dc7cb5)
-
+<img src="[https://your-image-url.type](https://github.com/user-attachments/assets/91b91832-03c9-4e5b-b618-49f7a6dc7cb5)" width="100" height="100"> 
 Check out my AWS AI Practitioner Study guide here.
 Take a look at some of AWS AI Practitioner mock exams here.
 
