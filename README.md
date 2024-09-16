@@ -12,8 +12,8 @@ Welcome to my space. Here, I'll showcase some of my current and past projects.
 ### AWS Certified Solutions Arcitect Associate
 ![SAA](https://github.com/user-attachments/assets/b3749a02-6433-45e2-9ae4-31b00dbe6291) 
 
-- Check out my AWS AI Practitioner Study guide here.
-- Take a look at some of AWS AI Practitioner mock exams here.
+-Check out my AWS AI Practitioner Study guide here.
+-Take a look at some of AWS AI Practitioner mock exams here.
 
 ## Real world IT Projects
 
