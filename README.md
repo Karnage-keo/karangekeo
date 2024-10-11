@@ -1,44 +1,35 @@
-# Richard Keogh
+<h1 align="center">Hi 👋, I'm Keo</h1>
+<h3 align="center">System Admin | System Engineer | System Architect | People Leader</h3>
 
-Welcome to my space. 
-<br> <br>
-Here, I'll showcase some of my current and past projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karnage-keo&label=Profile%20views&color=0e75b6&style=flat" alt="karnage-keo" /> </p>
 
-## </ins>Cloud computing - Study guides and practise exams</ins>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karnage-keo" alt="karnage-keo" /></a> </p>
 
-### <ins>AWS Certified Cloud Practitioner</ins>
-<br>
-As part of my continued effort to understand the AWS Services, and add value to those trying to learn AWS Cloud computing, I developed a study guide for the core Cloud Practitioner exam topics.
-<br><br>
-With this guide, you will find detailed descriptions of all the concept that will be covered as part of the exam.
-<br>
-Below, you will also find a free Cloud Practitioner practise exam, which has been created to replicate questions that will present in the exam. 
-<br>
-<img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-81f45bc/www.ciat.edu/wp-content/uploads/2020/12/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" width="500" height="500">
-Check out my AWS AI Practitioner Study guide here. 
-<br><br>
-Take a look at some of AWS AI Practitioner mock exams here.
+- 🔭 I’m currently working on [a Slack chatbot powered by Amazon Lex & Kendra](https://github.com/karnage-keo/aws-ai-slackbot)
 
-### <ins>AWS Certified Solutions Arcitect Associate</ins>
-![SAA](https://github.com/user-attachments/assets/b3749a02-6433-45e2-9ae4-31b00dbe6291) 
+- 🌱 I’m currently learning **AWS Developer Associate**
 
-Check out my AWS AI Practitioner Study guide here. <br><br>
-Take a look at some of AWS AI Practitioner mock exams here.
+- 👯 I’m looking to collaborate on [creating a practise exam for the AWS AI Practitioner cert](https://github.com/karnage-keo/AWS_AI_Practitioner_Exam_1)
 
-## Real world AWS Projects
+- 🤝 I’m looking for help with [chatbot intents & AI powered chat](https://github.com/karnage-keo/aws-ai-slackbot/blob/main/README.md)
 
-### <ins>Creating a First Line IT Support Bot</ins>
+- 👨‍💻 All of my projects are available at [https://github.com/karnage-keo](https://github.com/karnage-keo)
 
-### Project Scope
-This project was rooted in the desire to find a solution for some of our more common issues that arrived into our service desk, and those in which the team will frequently solve with existing documented knowledge, or by referencing our knowledge base.
-### Project Design
-### Project Proposal
-### Project Costing
-### Project Proposal
+- 💬 Ask me about **building business solutions with SaaS, On-Prem or Cloud**
 
+- 📫 How to reach me **richard@keo-tech.co.uk**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/richard-j-keogh/](https://www.linkedin.com/in/richard-j-keogh/)
 
-### Next project
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karnage-keo&show_icons=true&locale=en&layout=compact" alt="karnage-keo" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karnage-keo&show_icons=true&locale=en" alt="karnage-keo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karnage-keo&" alt="karnage-keo" /></p>
